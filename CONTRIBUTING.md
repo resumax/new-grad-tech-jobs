@@ -1,6 +1,6 @@
-# Contributing to New-Grad and Internship Tech Jobs
+# Contributing to New-Grad & Experienced Tech Jobs
 
-This list is generated automatically from [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-and-internship-jobs)'s open data and refreshed on a schedule, so do not edit `README.md` directly (it gets overwritten on the next run).
+This list is generated automatically from [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs)'s open data and refreshed on a schedule, so do not edit `README.md` directly (it gets overwritten on the next run).
 
 ## How to help
 
@@ -9,4 +9,4 @@ This list is generated automatically from [ResuMax](https://resumax.ai/?utm_sour
 
 Everything here is free and open source. If it helped you, a star helps others find it.
 
-Built by [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-and-internship-jobs), the AI career platform for software engineers.
+Built by [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs), the AI career platform for software engineers.
