@@ -1,24 +1,41 @@
 <div align="center">
-  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=banner"><img src="./assets/banner.svg" alt="ResuMax New-Grad Tech Jobs" width="100%"></a>
+  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=banner"><img src="./assets/banner.png" alt="ResuMax New-Grad Tech Jobs" width="100%"></a>
 </div>
 
 # New-Grad Tech Jobs
 
-Open new-grad and early-career software engineering, data, AI, ML, security, and hardware jobs for 2026, updated daily. Senior, staff, and lead roles are filtered out. Tailor your resume to any of them in one click.
+Entry-level software, data, AI and ML, security, and hardware jobs for **2026 new grads**, updated daily. Senior, staff, and lead roles are filtered out, so every listing actually fits a new grad. Tailor your resume to any of them in one click.
 
 [![Stars](https://img.shields.io/github/stars/resumax/new-grad-tech-jobs?style=flat&color=E879A3&labelColor=0A0A0E)](https://github.com/resumax/new-grad-tech-jobs) [![Powered by ResuMax](https://img.shields.io/badge/powered%20by-resumax.ai-E879A3?labelColor=0A0A0E)](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs) ![Updated](https://img.shields.io/badge/updated-automatically-F5F1EB?labelColor=0A0A0E)
 
-> **The loop:** [learn the roadmap](https://github.com/resumax/software-engineer-roadmaps) &rarr; [build a project to prove the skill](https://github.com/resumax/coding-project-ideas) &rarr; **apply to open roles** &rarr; tailor your resume with the [Atlas coach](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=intro). Internships are in the [internships repo](https://github.com/resumax/tech-internships).
+<div align="center">
+
+### 😫 Hate rewriting your resume for every single application?
+
+<a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=cta"><img src="./assets/cta.png" width="100%" alt="Tailor your resume and ace the interview with the ResuMax copilot"></a>
+
+**[Tailor your resume to any role in one click &rarr;](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=cta-link)**
+
+ResuMax's AI copilot rewrites your resume to match each job description, then walks you through every interview, the recruiter screen, coding round, and behavioral, so you land the offer, not just the application.
+
+</div>
+
+🙏 **Spot a role we're missing, or a stale listing?** [Open an issue.](../../issues/new) 🙏
+
+## Browse 434 new-grad roles by category
+
+💻 &nbsp; **[Software Engineering](#software-engineering)** &nbsp; `247`  
+🤖 &nbsp; **[Data, AI & ML](#data-ai-and-ml)** &nbsp; `88`  
+🔐 &nbsp; **[Security](#security)** &nbsp; `26`  
+☁️ &nbsp; **[DevOps, Infra & Cloud](#devops-infra-and-cloud)** &nbsp; `45`  
+📱 &nbsp; **[Mobile](#mobile)** &nbsp; `16`  
+🔧 &nbsp; **[Hardware & Embedded](#hardware-and-embedded)** &nbsp; `12`  
 
 ## Legend
 
 🔥 FAANG+ &nbsp;·&nbsp; 🌐 Remote &nbsp;·&nbsp; 🆕 Posted this week &nbsp;·&nbsp; 🎓 New-grad / entry-level labeled
 
-## Browse
-
-[Software Engineering](#software-engineering) (247) &nbsp;·&nbsp; [Data, AI & ML](#data-ai-and-ml) (88) &nbsp;·&nbsp; [Security](#security) (26) &nbsp;·&nbsp; [DevOps, Infra & Cloud](#devops-infra-and-cloud) (45) &nbsp;·&nbsp; [Mobile](#mobile) (16) &nbsp;·&nbsp; [Hardware & Embedded](#hardware-and-embedded) (12)
-
-## Software Engineering
+## 💻 Software Engineering
 <a name="software-engineering"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -115,10 +132,10 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Imc** 🆕 🎓 | Graduate Software Engineer (2026) | Amsterdam, Netherlands | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4564480101) | <a href="https://resumax.ai/tailor?job=d9457600-b919-4db2-8e3a-28c31eb37bfc&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=d9457600-b919-4db2-8e3a-28c31eb37bfc"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Instacart** 🌐 🆕 | Forward Deployed Engineer | Canada - Remote (ON, AB, BC, or NS Only) | [Apply](https://instacart.careers/job/?gh_jid=7989203) | <a href="https://resumax.ai/tailor?job=c7786baa-6971-4b2b-b1b0-6e76ea1b797c&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=c7786baa-6971-4b2b-b1b0-6e76ea1b797c"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Instacart** 🌐 🆕 | Forward Deployed Engineer | United States - Remote | [Apply](https://instacart.careers/job/?gh_jid=7989205) | <a href="https://resumax.ai/tailor?job=7a1d6f8f-34ec-4474-b15c-ae29890aa32d&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=7a1d6f8f-34ec-4474-b15c-ae29890aa32d"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **J.S. Held LLC** 🆕 | Design Engineer | Toronto, ON, ca | [Apply](https://jobs.smartrecruiters.com/jsheldllc/744000134027132) | <a href="https://resumax.ai/tailor?job=fd6b71c6-31ea-4718-9a3d-b7685c0f45de&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=fd6b71c6-31ea-4718-9a3d-b7685c0f45de"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) | <a href="https://resumax.ai/tailor?job=c9eef186-663c-4a60-bc5e-004f22edf547&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=c9eef186-663c-4a60-bc5e-004f22edf547"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Salesforce Applications Developer | Toronto, Canada | [Apply](https://boards.greenhouse.io/robinhood/jobs/7729315?t=gh_src=&gh_jid=7729315) | <a href="https://resumax.ai/tailor?job=767f2b4a-f5b5-49da-ba7a-cc282686ddfb&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=767f2b4a-f5b5-49da-ba7a-cc282686ddfb"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Spacex** 🆕 | Software Engineer, Telemetry (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8606724002?gh_jid=8606724002) | <a href="https://resumax.ai/tailor?job=8778765d-a0cd-466e-b9d8-a68a76507023&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=8778765d-a0cd-466e-b9d8-a68a76507023"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
+| **J.S. Held LLC** 🆕 | Design Engineer | Toronto, ON, ca | [Apply](https://jobs.smartrecruiters.com/jsheldllc/744000134027132) | <a href="https://resumax.ai/tailor?job=fd6b71c6-31ea-4718-9a3d-b7685c0f45de&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=fd6b71c6-31ea-4718-9a3d-b7685c0f45de"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Full Stack Software Engineer, Credit Cards & Banking | Bellevue, WA; Menlo Park, CA; New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723) | <a href="https://resumax.ai/tailor?job=c9eef186-663c-4a60-bc5e-004f22edf547&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=c9eef186-663c-4a60-bc5e-004f22edf547"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Salesforce Applications Developer | Toronto, Canada | [Apply](https://boards.greenhouse.io/robinhood/jobs/7729315?t=gh_src=&gh_jid=7729315) | <a href="https://resumax.ai/tailor?job=767f2b4a-f5b5-49da-ba7a-cc282686ddfb&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=767f2b4a-f5b5-49da-ba7a-cc282686ddfb"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Spacex** 🆕 | Software Engineer, Telemetry (Starlink) | Redmond, WA | [Apply](https://boards.greenhouse.io/spacex/jobs/8606724002?gh_jid=8606724002) | <a href="https://resumax.ai/tailor?job=8778765d-a0cd-466e-b9d8-a68a76507023&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=8778765d-a0cd-466e-b9d8-a68a76507023"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Altentechnologyusa** 🆕 | Software Simulation Engineer | North Reading, MA | [Apply](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5130022007) | <a href="https://resumax.ai/tailor?job=1636fecb-5f92-49bf-8f8d-fa60dccb4961&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=1636fecb-5f92-49bf-8f8d-fa60dccb4961"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Jobsatphamily** 🆕 | Software Engineer (Healthcare Cloud & Interoperability) | new york, new york | [Apply](https://job-boards.greenhouse.io/jobsatphamily/jobs/5277116008) | <a href="https://resumax.ai/tailor?job=305328cc-dc16-49df-b5e7-90e0fae897fc&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=305328cc-dc16-49df-b5e7-90e0fae897fc"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Flexport** 🆕 | Software Engineer II, Autonomous Freight Systems | San Francisco, California, United States | [Apply](https://boards.greenhouse.io/flexport/jobs/7839346?gh_jid=7839346) | <a href="https://resumax.ai/tailor?job=fc6bc4a7-811d-496b-aa62-4f612614d1af&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=fc6bc4a7-811d-496b-aa62-4f612614d1af"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
@@ -176,7 +193,7 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 
 <sub>Showing the 150 most recent of 247. [See them all on ResuMax &rarr;](https://resumax.ai/discovery?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=swe)</sub>
 
-## Data, AI & ML
+## 🤖 Data, AI & ML
 <a name="data-ai-and-ml"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -224,8 +241,8 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Imc** 🆕 | Data Engineer | Chicago, United States | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4439297101) | <a href="https://resumax.ai/tailor?job=65c1d425-25fd-4e19-80a9-ef64d2002ca2&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=65c1d425-25fd-4e19-80a9-ef64d2002ca2"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Imc** 🆕 | Machine Learning Engineer | Amsterdam, Netherlands; London, United Kingdom | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4567047101) | <a href="https://resumax.ai/tailor?job=3c61a02b-792e-4371-a068-35a572475e28&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=3c61a02b-792e-4371-a068-35a572475e28"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Imc** 🆕 | Machine Learning Researcher | Chicago, United States; New York, United States | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4699252101) | <a href="https://resumax.ai/tailor?job=504c5cf1-b5d0-44ab-b196-2115d7bd0f97&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=504c5cf1-b5d0-44ab-b196-2115d7bd0f97"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Machine Learning Engineer | Bellevue, WA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) | <a href="https://resumax.ai/tailor?job=c08cf487-c1f5-49bb-b49c-f60188a97096&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=c08cf487-c1f5-49bb-b49c-f60188a97096"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Security Engineer, AI Vulnerability Management | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) | <a href="https://resumax.ai/tailor?job=eb6c4171-61ee-41dc-9f30-0f7fa583ec00&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=eb6c4171-61ee-41dc-9f30-0f7fa583ec00"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
+| **Robinhood** 🆕 | Machine Learning Engineer | Bellevue, WA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) | <a href="https://resumax.ai/tailor?job=c08cf487-c1f5-49bb-b49c-f60188a97096&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=c08cf487-c1f5-49bb-b49c-f60188a97096"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Security Engineer, AI Vulnerability Management | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7939818?t=gh_src=&gh_jid=7939818) | <a href="https://resumax.ai/tailor?job=eb6c4171-61ee-41dc-9f30-0f7fa583ec00&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=eb6c4171-61ee-41dc-9f30-0f7fa583ec00"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Asana** 🆕 | AI Engineer | Warsaw | [Apply](https://www.asana.com/jobs/apply/7818833?gh_jid=7818833) | <a href="https://resumax.ai/tailor?job=65e689d1-dffc-4d4c-8e5e-2791a960c6df&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=65e689d1-dffc-4d4c-8e5e-2791a960c6df"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Sonyinteractiveentertainment Global** 🆕 | AI Engineer | United States, San Diego, CA | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6007946004) | <a href="https://resumax.ai/tailor?job=8a748c7b-d48f-4cdb-9905-7888aaf7fc21&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=8a748c7b-d48f-4cdb-9905-7888aaf7fc21"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Sonyinteractiveentertainment Global** 🆕 | Data Engineer (12 month Fixed term Contract) | United Kingdom, London | [Apply](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5823360004) | <a href="https://resumax.ai/tailor?job=47020910-7196-43d3-b4db-b348b9daadd6&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=47020910-7196-43d3-b4db-b348b9daadd6"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
@@ -270,7 +287,7 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Talan** 🆕 | AI Engineer H/F - CDI | Paris, IDF, fr | [Apply](https://jobs.smartrecruiters.com/talan/744000133643470) | <a href="https://resumax.ai/tailor?job=8803c0ab-8962-44eb-9661-e85951063186&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=8803c0ab-8962-44eb-9661-e85951063186"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 | **Talan** 🆕 | Data Engineer - H/F | Rennes, Brittany, fr | [Apply](https://jobs.smartrecruiters.com/talan/744000133636286) | <a href="https://resumax.ai/tailor?job=bb2f21d5-3949-4435-b6c3-0477bfce592e&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=bb2f21d5-3949-4435-b6c3-0477bfce592e"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 
-## Security
+## 🔐 Security
 <a name="security"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -284,9 +301,9 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Imc** 🆕 | Site Reliability Engineer - Security | Sydney,  Australia | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4865413101) | <a href="https://resumax.ai/tailor?job=7cc1eaeb-f850-40ef-92dc-b777bc3f40b9&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=7cc1eaeb-f850-40ef-92dc-b777bc3f40b9"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Imc** 🆕 | Information Security Engineer | Sydney,  Australia | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4884398101) | <a href="https://resumax.ai/tailor?job=5d326df2-afe0-4c1b-9b44-16e758cfda5e&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5d326df2-afe0-4c1b-9b44-16e758cfda5e"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Imc** 🆕 | Site Reliability Engineer (SRE) - Security | Amsterdam, Netherlands | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4861474101) | <a href="https://resumax.ai/tailor?job=bec17e0f-7296-41fc-a452-59321edefc73&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=bec17e0f-7296-41fc-a452-59321edefc73"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Security Engineer, Detection & Response | Ljubljana, Slovenia | [Apply](https://boards.greenhouse.io/robinhood/jobs/7724380?t=gh_src=&gh_jid=7724380) | <a href="https://resumax.ai/tailor?job=647f98d1-115c-4b91-a480-38d33bd96d30&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=647f98d1-115c-4b91-a480-38d33bd96d30"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Security Engineer, Detection & Response | Toronto, Canada | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697727?t=gh_src=&gh_jid=7697727) | <a href="https://resumax.ai/tailor?job=5ce5b152-1fce-4b9a-8d0e-9a8b5cd2d365&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5ce5b152-1fce-4b9a-8d0e-9a8b5cd2d365"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Security Engineer, Detection & Response | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) | <a href="https://resumax.ai/tailor?job=358ab9b5-d5db-4585-90fe-dcf8fb983f1a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=358ab9b5-d5db-4585-90fe-dcf8fb983f1a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
+| **Robinhood** 🆕 | Security Engineer, Detection & Response | Ljubljana, Slovenia | [Apply](https://boards.greenhouse.io/robinhood/jobs/7724380?t=gh_src=&gh_jid=7724380) | <a href="https://resumax.ai/tailor?job=647f98d1-115c-4b91-a480-38d33bd96d30&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=647f98d1-115c-4b91-a480-38d33bd96d30"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Security Engineer, Detection & Response | Toronto, Canada | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697727?t=gh_src=&gh_jid=7697727) | <a href="https://resumax.ai/tailor?job=5ce5b152-1fce-4b9a-8d0e-9a8b5cd2d365&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5ce5b152-1fce-4b9a-8d0e-9a8b5cd2d365"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Security Engineer, Detection & Response | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7697725?t=gh_src=&gh_jid=7697725) | <a href="https://resumax.ai/tailor?job=358ab9b5-d5db-4585-90fe-dcf8fb983f1a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=358ab9b5-d5db-4585-90fe-dcf8fb983f1a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Pinterest** 🌐 🆕 | Security Software Engineer II, Corporate Security | San Francisco, CA, US; Remote, US | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7494666) | <a href="https://resumax.ai/tailor?job=db2bb1f8-00bb-40ad-b5e9-c9979928d13a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=db2bb1f8-00bb-40ad-b5e9-c9979928d13a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Stripe** 🔥 🆕 | Security Engineer, Mobile | New York, New York | [Apply](https://stripe.com/jobs/search?gh_jid=7982720) | <a href="https://resumax.ai/tailor?job=ff4d33a2-7819-4a6d-a524-b9d3abdd2d4e&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=ff4d33a2-7819-4a6d-a524-b9d3abdd2d4e"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Anduril Industries** 🆕 | Security Software Engineer - Endpoint Security | Washington, District of Columbia, United States | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5086962007?gh_jid=5086962007) | <a href="https://resumax.ai/tailor?job=cdd03ef3-0c70-4be9-acdc-da7a09b79ebb&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=cdd03ef3-0c70-4be9-acdc-da7a09b79ebb"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
@@ -302,7 +319,7 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Trace3** 🆕 | Network Security Engineer (26-212) | Colorado Springs, CO | [Apply](https://job-boards.greenhouse.io/trace3/jobs/8016438) | <a href="https://resumax.ai/tailor?job=f366be44-1a3b-4f5f-9ce6-625f246711eb&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=f366be44-1a3b-4f5f-9ce6-625f246711eb"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 | **Open AI** 🌐 🆕 | Data Center Physical Security Systems Engineer | Remote - US | [Apply](https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d/application) | <a href="https://resumax.ai/tailor?job=ea9d1225-be1d-41e3-bc52-90de88d81e56&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=ea9d1225-be1d-41e3-bc52-90de88d81e56"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 
-## DevOps, Infra & Cloud
+## ☁️ DevOps, Infra & Cloud
 <a name="devops-infra-and-cloud"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -353,7 +370,7 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Affirm** 🌐 🆕 | Software Engineer II, Backend (Infrastructure Platform) | Remote Canada | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7764836003) | <a href="https://resumax.ai/tailor?job=4ee40e82-a11e-4a09-bf93-5c5cafad1218&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=4ee40e82-a11e-4a09-bf93-5c5cafad1218"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 | **Affirm** 🌐 🆕 | Software Engineer II, Backend (Infrastructure Platform) | Remote US | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7764834003) | <a href="https://resumax.ai/tailor?job=f6e2f0e5-39fd-4a88-b7b0-fc796a879d2a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=f6e2f0e5-39fd-4a88-b7b0-fc796a879d2a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 2d |
 
-## Mobile
+## 📱 Mobile
 <a name="mobile"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -365,17 +382,17 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 | **Experian** 🆕 | Android Developer | Heredia, Heredia, cr | [Apply](https://jobs.smartrecruiters.com/experian/744000134043179) | <a href="https://resumax.ai/tailor?job=6187d378-bc98-4101-8e00-928adc5e731b&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=6187d378-bc98-4101-8e00-928adc5e731b"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Bpcs** 🆕 | Android Test Automation Engineer - C++ or Kotlin | Redmond, WA | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/8027561) | <a href="https://resumax.ai/tailor?job=9f4aaaed-fd6c-43c3-8101-13767f9d2a6b&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=9f4aaaed-fd6c-43c3-8101-13767f9d2a6b"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
 | **Speechify** 🆕 | Software Engineer, iOS Core Product - Stuttgart, Germany | Stuttgart, Baden-Württemberg, Germany | [Apply](https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-ios-core-product-stuttgart-germany-484459) | <a href="https://resumax.ai/tailor?job=0d6e1e4e-3df6-4d04-b285-50acbe890365&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=0d6e1e4e-3df6-4d04-b285-50acbe890365"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Quality Engineer, iOS/Android | Toronto, Canada | [Apply](https://boards.greenhouse.io/robinhood/jobs/7739588?t=gh_src=&gh_jid=7739588) | <a href="https://resumax.ai/tailor?job=d99bee0b-ed00-4dac-a26e-a147b8ad5230&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=d99bee0b-ed00-4dac-a26e-a147b8ad5230"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | iOS Engineer | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7980523?t=gh_src=&gh_jid=7980523) | <a href="https://resumax.ai/tailor?job=82805977-652c-43c9-8609-23faeb2b72d0&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=82805977-652c-43c9-8609-23faeb2b72d0"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Android Engineer | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823) | <a href="https://resumax.ai/tailor?job=5178ae18-a330-4a9d-b2b4-145817caa2a6&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5178ae18-a330-4a9d-b2b4-145817caa2a6"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | Android Engineer | New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758) | <a href="https://resumax.ai/tailor?job=4440fb21-12d5-4f5b-b721-f0dc1ff13929&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=4440fb21-12d5-4f5b-b721-f0dc1ff13929"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | iOS Engineer | New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980) | <a href="https://resumax.ai/tailor?job=acc429dd-8f55-406f-834a-e35d4cb4695a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=acc429dd-8f55-406f-834a-e35d4cb4695a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
-| **Robinhood** 🆕 | iOS Engineer | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027) | <a href="https://resumax.ai/tailor?job=e0786197-8542-4cfc-a7da-e3b52e003c52&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=e0786197-8542-4cfc-a7da-e3b52e003c52"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | today |
+| **Robinhood** 🆕 | Quality Engineer, iOS/Android | Toronto, Canada | [Apply](https://boards.greenhouse.io/robinhood/jobs/7739588?t=gh_src=&gh_jid=7739588) | <a href="https://resumax.ai/tailor?job=d99bee0b-ed00-4dac-a26e-a147b8ad5230&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=d99bee0b-ed00-4dac-a26e-a147b8ad5230"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | iOS Engineer | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7980523?t=gh_src=&gh_jid=7980523) | <a href="https://resumax.ai/tailor?job=82805977-652c-43c9-8609-23faeb2b72d0&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=82805977-652c-43c9-8609-23faeb2b72d0"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Android Engineer | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823) | <a href="https://resumax.ai/tailor?job=5178ae18-a330-4a9d-b2b4-145817caa2a6&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=5178ae18-a330-4a9d-b2b4-145817caa2a6"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | Android Engineer | New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758) | <a href="https://resumax.ai/tailor?job=4440fb21-12d5-4f5b-b721-f0dc1ff13929&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=4440fb21-12d5-4f5b-b721-f0dc1ff13929"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | iOS Engineer | New York, NY | [Apply](https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980) | <a href="https://resumax.ai/tailor?job=acc429dd-8f55-406f-834a-e35d4cb4695a&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=acc429dd-8f55-406f-834a-e35d4cb4695a"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
+| **Robinhood** 🆕 | iOS Engineer | Menlo Park, CA | [Apply](https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027) | <a href="https://resumax.ai/tailor?job=e0786197-8542-4cfc-a7da-e3b52e003c52&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=e0786197-8542-4cfc-a7da-e3b52e003c52"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Bpcs** 🆕 | Android Test Automation Engineer | Redmond, WA | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/8027158) | <a href="https://resumax.ai/tailor?job=1f260fd0-afcb-4f2d-b8cc-05fd0e620869&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=1f260fd0-afcb-4f2d-b8cc-05fd0e620869"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Asana** 🆕 | Software Engineer, Android | Warsaw | [Apply](https://www.asana.com/jobs/apply/6200340?gh_jid=6200340) | <a href="https://resumax.ai/tailor?job=345b3249-7374-4a24-8e80-774b934edcaf&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=345b3249-7374-4a24-8e80-774b934edcaf"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 | **Starling** 🆕 | Android Engineer | — | [Apply](https://apply.workable.com/j/0DA49B0B28/apply) | <a href="https://resumax.ai/tailor?job=f4552678-e8e6-44e9-9154-c925a963ff51&utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=f4552678-e8e6-44e9-9154-c925a963ff51"><img src="./assets/tailor-with-resumax.svg" width="74" alt="Tailor your resume"></a> | 1d |
 
-## Hardware & Embedded
+## 🔧 Hardware & Embedded
 <a name="hardware-and-embedded"></a>
 
 | Company | Role | Location | Apply | Tailor | Age |
@@ -396,10 +413,14 @@ Open new-grad and early-career software engineering, data, AI, ML, security, and
 
 ---
 
-### Part of the open-source ResuMax stack
+<div align="center">
 
-[**Roadmaps**](https://github.com/resumax/software-engineer-roadmaps) to learn it &nbsp;·&nbsp; [**Projects**](https://github.com/resumax/coding-project-ideas) to prove it &nbsp;·&nbsp; **Jobs** to land it (you are here) &nbsp;·&nbsp; [**Internships**](https://github.com/resumax/tech-internships) to break in
+### Don't just apply. Get the offer.
 
-Built by **[ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs)**, the AI career platform for software engineers. Learn the path, build the proof, land the role, and tailor your resume with the Atlas coach.
+**[ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=footer)** is the AI copilot for landing your tech job: tailor your resume to any role, run unlimited mock interviews, and walk into every round, recruiter screen, coding, and behavioral, knowing exactly what to say.
 
-<sub>This list is generated automatically from ResuMax's open data and refreshed on a schedule. Found an issue? Open an issue or PR.</sub>
+**[Get started free &rarr;](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs&utm_content=footer-cta)**
+
+</div>
+
+<sub>Generated automatically from open postings and refreshed daily. Spot something off? Open an issue or PR.</sub>
