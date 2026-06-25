@@ -1,4 +1,4 @@
-# Contributing to New-Grad & Experienced Tech Jobs
+# Contributing to New-Grad Tech Jobs
 
 This list is generated automatically from [ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=new-grad-tech-jobs)'s open data and refreshed on a schedule, so do not edit `README.md` directly (it gets overwritten on the next run).
 
